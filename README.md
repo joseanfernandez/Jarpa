@@ -9,7 +9,7 @@ Aplicación móvil.
 ### [Jarpa Admin](https://github.com/joseanfernandez/jarpa-admin)
 Página de administración, donde podemos ver estadísticas de usuarios y contraseñas, además de gestionar los estados de los usuarios.
 
-[https://jarpa.joseanfernandez.com/login](https://jarpa.joseanfernandez.com)
+[https://jarpa.joseanfernandez.com](https://jarpa.joseanfernandez.com)
 
 ### [Jarpa Engine](https://github.com/joseanfernandez/jarpa-engine)
 Motor de toda la aplicación.
