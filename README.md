@@ -4,7 +4,7 @@ Jarpa consta de 3 proyectos:
 ### [Jarpa Security](https://github.com/joseanfernandez/jarpa-security)
 Aplicación móvil.
 
-[APK](https://github.com/joseanfernandez/Jarpa/raw/master/README.md)
+[APK](https://github.com/joseanfernandez/Jarpa/raw/master/Jarpa.apk)
 
 ### [Jarpa Admin](https://github.com/joseanfernandez/jarpa-admin)
 Página de administración, donde podemos ver estadísticas de usuarios y contraseñas, además de gestionar los estados de los usuarios.
