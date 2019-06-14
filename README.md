@@ -1,4 +1,5 @@
 # Jarpa
+<img src="logos/logo-jarpa.svg" alt="Imagen no disponible" width="250">
 
 * Jarpa consta de 3 proyectos.
 * En cada apartado encontrarás el enlace a la wiki de la estructura de cada proyecto y capturas de pantalla en el caso de aplicación móvil y página de administración.
