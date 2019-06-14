@@ -107,4 +107,3 @@ Cada componente tiene su propio router y funciones.
 Traductor para mandar al front el contenido de las gráficas traducidos.
 
 
-
