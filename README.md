@@ -1,7 +1,9 @@
 # Jarpa
 
 Jarpa consta de 3 proyectos:
-### [Jarpa Security](https://github.com/joseanfernandez/jarpa-security) ##### Aplicación móvil
+### [Jarpa Security](https://github.com/joseanfernandez/jarpa-security) 
+Aplicación móvil que nos permite tener todas nuestras contraseñas seguras bajo una única contraseña.
+Con un solo click podrás copiar la contraseña al portapapeles sin necesidad de ver esa contraseña.
 
 [APK](https://github.com/joseanfernandez/Jarpa/raw/master/Jarpa.apk)
 
@@ -13,7 +15,6 @@ Si estás autenticado:
 * list: Lista de cuentas creadas.
   - edit: Modal accesible desde list para editar cuentas.
 * generator: Crea cuentas, ya sea con contraseña generada aleatoriamente o introducidad por el usuario.
-* 
 
 
 Si no estás autenticado:
@@ -57,6 +58,7 @@ Página de administración, donde podemos ver estadísticas de usuarios y contra
 
 ### [Jarpa Engine](https://github.com/joseanfernandez/jarpa-engine)
 Motor de toda la aplicación.
+
 
 
 
