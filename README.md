@@ -91,8 +91,20 @@ Si no estás autenticado:
 Motor de toda la aplicación.
 
 
+### Estructura
+#### Componentes
+Cada componente tiene su propio router y funciones.
+* accounts
+* statistics
+* user
 
+#### Modelos
+* accounts
+* statistics
+* user
 
+### Translate
+Traductor para mandar al front el contenido de las gráficas traducidos.
 
 
 
