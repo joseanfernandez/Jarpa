@@ -31,9 +31,9 @@ Motor de toda la aplicación.
 |Angular|Firebase|PostgreSQL|Jenkins|
 
 <img src="logos/angular.png" width="250" />
-<img src="logos/firebase.png" width="250"  />
+<img src="logos/firebase.png" width="350"  />
 <img src="logos/postgresql.png" width="250"  />
-<img src="logos/jenkins.jpg" width="250"  />
+<img src="logos/jenkins.jpg" width="150"  />
 
 
 
