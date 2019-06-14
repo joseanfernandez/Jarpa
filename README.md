@@ -30,6 +30,10 @@ Motor de toda la aplicación.
 |-------|--------|----------|-------|
 |Angular|Firebase|PostgreSQL|Jenkins|
 
+![](logos/angular.png =250x)
+![](logos/firebase.png =250x)
+![](logos/postgresql.png =250x)
+![](logos/jenkins.jpg =250x)
 * Ionic
 * Angular
 * Node.js
