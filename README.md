@@ -6,7 +6,7 @@ Aplicación móvil.
 
 [APK](https://github.com/joseanfernandez/Jarpa/raw/master/Jarpa.apk)
 
-
+### Estructura
 #### Pages y modales
 Si estás autenticado:
 * home: Contiene el menú tipo tabs principal que incluye list y generator.
