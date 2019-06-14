@@ -54,6 +54,42 @@ Si no estás autenticado:
 ### [Jarpa Admin](https://github.com/joseanfernandez/jarpa-admin)
 Página de administración, donde podemos ver estadísticas de usuarios y contraseñas, además de gestionar los estados de los usuarios.
 
+
+### Estructura
+#### Charts
+* area:  Contraseñas aleatorias vs propias de usuario por semana.
+* gauge: Total de usuarios en la aplicación (Frente a objetivo marcado).
+* line: Cantidad de usuarios registrados por semana.
+* pie: Total de contraseñas aleatorias vs propias de usuario.
+#### Componentes
+Si estás autenticado:
+* navbar: Presente en toda la aplicación.
+* dashboard: Contiene las cuatro gráficas: area, gauge, line y pie.
+* users: Tabla de usuarios con su datos y estado.
+
+Si no estás autenticado:
+* login
+
+#### Guards
+* auth: Guard para securizar las rutas.
+
+#### Modelos
+* account
+* statistic
+* user
+
+### Servicios
+* auth
+  - Autenticación de Firebase: 
+    * signInWithEmailAndPassword
+    * signOut
+* info
+  - Servicio para mostrar snackbar de diferentes colores con mensaje personalizado.
+* server
+  - Peticiones http al servidor para:
+    * Actualizar usuarios.
+    * Leer usuarios y estadísticas.
+
 [https://jarpa.joseanfernandez.com](https://jarpa.joseanfernandez.com)
 
 ### [Jarpa Engine](https://github.com/joseanfernandez/jarpa-engine)
