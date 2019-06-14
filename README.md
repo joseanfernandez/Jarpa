@@ -10,6 +10,10 @@ Con un solo click podrás copiar la contraseña al portapapeles sin necesidad de
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Security)
 
 
+|<img src="logos/ionic.png" alt="Imagen no disponible">|<img src="logos/node.png"alt="Imagen no disponible" >|<img src="logos/aws.png" alt="alt text">|
+|----------|----------|----------|
+
+
 ### [Jarpa Admin](https://github.com/joseanfernandez/jarpa-admin)
 Página de administración, donde podemos ver estadísticas de usuarios y contraseñas, además de gestionar los estados de los usuarios.
 
@@ -28,8 +32,8 @@ Motor de toda la aplicación.
 ## Tecnolgías utilizadas
 
 
-|<img src="logos/angular.png" alt="alt text" width="250">|<img src="logos/firebase2.png" alt="alt text" width="250">|<img src="logos/postgresql.png" alt="alt text" width="250">|<img src="logos/jenkins2.png" alt="alt text" width="250">|
+|<img src="logos/angular.png" alt="Imagen no disponible" width="250">|<img src="logos/firebase2.png" alt="Imagen no disponible" width="250">|<img src="logos/postgresql.png" alt="Imagen no disponible" width="250">|<img src="logos/jenkins2.png" alt="Imagen no disponible" width="250">|
 |----------|----------|----------|----------|
 
-|<img src="logos/ionic.png" alt="alt text" width="300">|<img src="logos/node.png" alt="alt text" width="300">|<img src="logos/aws.png" alt="alt text" width="300">|
+|<img src="logos/ionic.png" alt="Imagen no disponible" width="300">|<img src="logos/node.png" alt="Imagen no disponible" width="300">|<img src="logos/aws.png" alt="Imagen no disponible" width="300">|
 |----------|----------|----------|
