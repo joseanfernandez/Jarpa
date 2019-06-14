@@ -20,9 +20,10 @@ Página de administración, donde podemos ver estadísticas de usuarios y contra
 
 
 [https://jarpa.joseanfernandez.com](https://jarpa.joseanfernandez.com)
+
 Credenciales de prueba:
-  Email: admin@jarpasecurity.com 
-  Passowrd: a12345678
+* Email: admin@jarpasecurity.com 
+* Passoword: a12345678
   
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Admin)
 
