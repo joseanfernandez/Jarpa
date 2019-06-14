@@ -73,11 +73,6 @@ Si no estás autenticado:
 #### Guards
 * auth: Guard para securizar las rutas.
 
-#### Modelos
-* account
-* statistic
-* user
-
 ### Servicios
 * auth
   - Autenticación de Firebase: 
