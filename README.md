@@ -20,18 +20,22 @@ Página de administración, donde podemos ver estadísticas de usuarios y contra
 
 
 [https://jarpa.joseanfernandez.com](https://jarpa.joseanfernandez.com)
-
+Credenciales de prueba:
+  Email: admin@jarpasecurity.com 
+  Passowrd: a12345678
+  
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Admin)
+
+<img src="screenshots/admin/login.png" alt="Imagen no disponible">
+<img src="screenshots/admin/dashboard1.png" alt="Imagen no disponible" >
+<img src="screenshots/admin/dashboard2.png" alt="Imagen no disponible">
+<img src="screenshots/admin/users.png" alt="Imagen no disponible">
 
 ### [Jarpa Engine](https://github.com/joseanfernandez/jarpa-engine)
 Motor de toda la aplicación.
 
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Engine)
 
-<img src="screenshots/admin/login.png" alt="Imagen no disponible">
-<img src="screenshots/admin/dashboard1.png" alt="Imagen no disponible" >
-<img src="screenshots/admin/dashboard2.png" alt="Imagen no disponible">
-<img src="screenshots/admin/users.png" alt="Imagen no disponible">
 
 ## Tecnolgías utilizadas
 
