@@ -4,7 +4,7 @@
 * En cada apartado encontrarás el enlace a la wiki de la estructura de cada proyecto y capturas de pantalla en el caso de aplicación móvil y página de administración.
 * El backend de la aplicación y la web de administración están desplegadas en una instancia de Amazon Web Services.
 * El proyecto dispone de Integración Continua con Jenkins.
-* Las contraseñas, email y nombres de usuario se guardan en la base de datos encriptados. Solo se se desencripta cuando el usuario hace click sobre ellos.
+* Las contraseñas, email y nombres de usuario se guardan en la base de datos encriptados. Se se desencriptan cuando el usuario hace click sobre ellos.
 
 ### [Jarpa Security](https://github.com/joseanfernandez/jarpa-security) 
 Aplicación móvil que nos permite tener todas nuestras contraseñas seguras bajo una única contraseña.
