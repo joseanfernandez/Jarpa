@@ -10,10 +10,10 @@ Con un solo click podrás copiar la contraseña al portapapeles sin necesidad de
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Security)
 
 
-|<img src="screenshots/login.PNG" alt="Imagen no disponible">|<img src="screenshots/register.PNG" alt="Imagen no disponible" >|<img src="screenshots/forgotPassword.PNG" alt="alt text">|
+|<img src="screenshots/login.PNG" alt="Imagen no disponible">|<img src="screenshots/register.PNG" alt="Imagen no disponible" >|<img src="screenshots/forgotPassword.PNG" alt="Imagen no disponible">|
 |----------|----------|----------|
 
-|<img src="screenshots/list.PNG" alt="Imagen no disponible">|<img src="screenshots/generator.PNG" alt="Imagen no disponible" >|<img src="screenshots/settings.PNG" alt="alt text">|
+|<img src="screenshots/list.PNG" alt="Imagen no disponible">|<img src="screenshots/generator.PNG" alt="Imagen no disponible" >|<img src="screenshots/settings.PNG" alt="Imagen no disponible">|
 |----------|----------|----------|
 ### [Jarpa Admin](https://github.com/joseanfernandez/jarpa-admin)
 Página de administración, donde podemos ver estadísticas de usuarios y contraseñas, además de gestionar los estados de los usuarios.
