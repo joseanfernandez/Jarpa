@@ -10,7 +10,7 @@ Con un solo click podrás copiar la contraseña al portapapeles sin necesidad de
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Security)
 
 
-|<img src="screenshots/login.PNG" alt="Imagen no disponible">|<img src="screenshots/register.PNG"alt="Imagen no disponible" >|<img src="screenshots/forgotPassword.PNG" alt="alt text">|
+|<img src="screenshots/login.PNG" alt="Imagen no disponible">|<img src="screenshots/register.PNG" alt="Imagen no disponible" >|<img src="screenshots/forgotPassword.PNG" alt="alt text">|
 |----------|----------|----------|
 
 
