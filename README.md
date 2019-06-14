@@ -30,13 +30,11 @@ Motor de toda la aplicación.
 |-------|--------|----------|-------|
 |Angular|Firebase|PostgreSQL|Jenkins|
 
-![](./logos/angular.png =250x)
-![](logos/firebase.png =250x)
-![](logos/postgresql.png =250x)
-![](logos/jenkins.jpg =250x)
-![Texto alternativo](logos/firebase.png =250x "Título alternativo")
+<img src="logos/angular.png" width="400" height="400" />
+<img src="logos/firebase.png" width="400" height="400" />
+<img src="logos/postgresql.png" width="400" height="400" />
+<img src="logos/jenkins.jpg" width="400" height="400" />
 
-<img src="logos/firebase.png" width="200" height="400" />
 
 
 * Ionic
