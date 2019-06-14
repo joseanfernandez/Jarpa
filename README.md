@@ -34,6 +34,7 @@ Motor de toda la aplicación.
 ![](logos/firebase.png =250x)
 ![](logos/postgresql.png =250x)
 ![](logos/jenkins.jpg =250x)
+![Texto alternativo](logos/firebase.png "Título alternativo")
 * Ionic
 * Angular
 * Node.js
