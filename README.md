@@ -1,11 +1,14 @@
 # Jarpa
 
-Jarpa consta de 3 proyectos:
+Jarpa consta de 3 proyectos.
+En cada apartado encontrarás el enlace a la wiki de la estructura de cada proyecto y capturas de pantalla en el caso de aplicación móvil y página de administración.
+
 ### [Jarpa Security](https://github.com/joseanfernandez/jarpa-security) 
 Aplicación móvil que nos permite tener todas nuestras contraseñas seguras bajo una única contraseña.
 Con un solo click podrás copiar la contraseña al portapapeles sin necesidad de ver esa contraseña.
+Si tu terminal dispone de lector de huella dactilar, tras el primer login podrás empezar a usarlo como método de autenticación.
 
-[APK](https://github.com/joseanfernandez/Jarpa/raw/master/Jarpa.apk)
+[Descargar APK](https://github.com/joseanfernandez/Jarpa/raw/master/Jarpa.apk)
 
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Security)
 
