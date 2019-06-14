@@ -26,14 +26,13 @@ Motor de toda la aplicación.
 
 
 ## Tecnolgías utilizadas
-|<img src="logos/angular.png" alt="alt text">|<img src="logos/firebase.png" alt="alt text">|<img src="logos/postgresql.png" alt="alt text">|<img src="logos/jenkins.jpg" alt="alt text">|
-|-------|--------|----------|-------|
-|Angular|Firebase|PostgreSQL|Jenkins|
 
 
 |<img src="logos/angular.png" alt="alt text" width="250">|<img src="logos/firebase.png" alt="alt text" width="250">|<img src="logos/postgresql.png" alt="alt text" width="250">|<img src="logos/jenkins.jpg" alt="alt text" width="250">|
 |----------|----------|----------|----------|
 
+|<img src="logos/ionic.png" alt="alt text" width="250">|<img src="logos/node.png" alt="alt text" width="250">|<img src="logos/aws.png" alt="alt text" width="250">|
+|----------|----------|----------|
 
 <img src="logos/angular.png" width="250" />
 <img src="logos/firebase.png" width="350"  />
