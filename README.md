@@ -28,10 +28,11 @@ Motor de toda la aplicación.
 
 [Estructura](https://github.com/joseanfernandez/Jarpa/wiki/Jarpa-Engine)
 
-|<img src="screenshots/admin/login.png" alt="Imagen no disponible">|<img src="screenshots/admin/dashboard1.png" alt="Imagen no disponible" >|
-|----------|----------|
-|<img src="screenshots/admin/dashboard2.png" alt="Imagen no disponible">|<img src="screenshots/admin/users.png" alt="Imagen no disponible">|
-|----------|----------|
+|<img src="screenshots/admin/login.png" alt="Imagen no disponible">|
+|<img src="screenshots/admin/dashboard1.png" alt="Imagen no disponible" >|
+|<img src="screenshots/admin/dashboard2.png" alt="Imagen no disponible">|
+|<img src="screenshots/admin/users.png" alt="Imagen no disponible">|
+|----------|
 
 ## Tecnolgías utilizadas
 
